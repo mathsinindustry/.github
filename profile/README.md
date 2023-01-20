@@ -1,3 +1,5 @@
+![](https://mathsinindustry.com/wp-content/uploads/banner-1.png)
+
 # Mathematics in Industry Study Group
 
 The **Mathematics in Industry Study Group** (MISG) is a workshop held annually to bring together mathematicians and members of industry to work together on a set of challenges. 
